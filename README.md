@@ -1,3 +1,8 @@
+
+<h1>HI✨ I'm Dusit phaisan </h1>
+<hr>
+<p> A young UX/UI designer
+I am a student at Phumphitchaya technological College and interested in studying at the Faculty of Information Technology at Udon Thani Rajabhat University, So I created this website to collect my work.</p>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,mysql,git,github,c,java,mongodb" />
