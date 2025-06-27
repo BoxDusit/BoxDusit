@@ -8,7 +8,7 @@
 <h1>
 <h4>🔭Web Development</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php" />
 </a>
 </h1>
 
@@ -26,6 +26,12 @@
 </a>
 </h1>
 
+<h1>
+<h4>💬Other</h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma" />
+</a>
+</h1>
 <!--
 **BoxDusit/BoxDusit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
