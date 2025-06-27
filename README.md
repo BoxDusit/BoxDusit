@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,mysql" />
+  </a>
+</p>
 
 <!--
 **BoxDusit/BoxDusit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
