@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/u8qHYsVgOrwAAAAC/sao-gun.gif" width="100%" alt="a girl wearing a pink hat and scarf stands in front of mountains" fetchpriority="high" style="max-width: 833px;">
+<img src="https://media1.tenor.com/m/u8qHYsVgOrwAAAAC/sao-gun.gif" width="100%" height="500px" alt="a girl wearing a pink hat and scarf stands in front of mountains" fetchpriority="high" style="max-width: 833px;">
 <h1>HI✨ I'm Dusit phaisan </h1>
 <hr>
 <p> A young UX/UI designer
