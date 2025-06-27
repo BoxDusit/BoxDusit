@@ -1,14 +1,13 @@
 <div align="center">
 <h1>HI,I'm Dusit phaisan !!!</h1>
-<hr>
 <p><img src="https://media1.tenor.com/m/u8qHYsVgOrwAAAAC/sao-gun.gif" width="70%"  alt="a girl wearing a pink hat and scarf stands in front of mountains" fetchpriority="high" style="max-width: 833px;"></p>
 </div>
-<hr>
-<p>🔭Web Development</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,mysql,git,github,c,java,mongodb" />
-  </a>
-<hr>
+
+<h3>🔭Web Development</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,mysql,git,github,c,java,mongodb" />
+</a>
+
 
 <!--
 **BoxDusit/BoxDusit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
