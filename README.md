@@ -1,6 +1,7 @@
 <div align="center">
 <h1>HI,I'm Dusit Phaisan !!!</h1>
 <p><img src="https://media1.tenor.com/m/u8qHYsVgOrwAAAAC/sao-gun.gif" width="70%"  alt="a girl wearing a pink hat and scarf stands in front of mountains" fetchpriority="high" style="max-width: 833px;"></p>
+<p><b>Angel with a shotgun.</b></p>
 </div>
 
 <h2>⚡About Me</h2>
