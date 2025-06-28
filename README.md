@@ -33,6 +33,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma" />
 </a>
 </h1>
+<div align="center">
+<p><b>Thank you.</b></p>
+</div>
+
 <!--
 **BoxDusit/BoxDusit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
