@@ -5,7 +5,7 @@
 </div>
 
 <h2>⚡About Me</h2>
-<p>I am a student at Phumphitchaya technological College and interested in studying at the Faculty of Information Technology at Udon Thani Rajabhat University, So I created this website to collect my work.</p>
+<p>I am currently a student at the Faculty of Information Technology, Udon Thani Rajabhat University. This website was created to showcase and archive my work.</p>
 <h1>
 <h4>🔭Web Development</h4>
 <a href="https://skillicons.dev">
