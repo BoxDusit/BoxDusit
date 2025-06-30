@@ -6,6 +6,9 @@
 
 <h2>⚡About Me</h2>
 <p>I am currently a student at the Faculty of Information Technology, Udon Thani Rajabhat University. This website was created to showcase and archive my work.</p>
+<ul>
+  <li>Fontend Develop/UXUI design</li>
+</ul>
 <h1>
 <h4>🔭Web Development</h4>
 <a href="https://skillicons.dev">
