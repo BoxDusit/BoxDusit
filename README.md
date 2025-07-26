@@ -1,10 +1,21 @@
 <div align="center">
 <h1>HI,I'm Dusit Phaisan !!!</h1>
 <p><img src="https://media1.tenor.com/m/u8qHYsVgOrwAAAAC/sao-gun.gif" width="70%"  alt="a girl wearing a pink hat and scarf stands in front of mountains" fetchpriority="high" style="max-width: 833px;"></p>
-<p><b>Angel with a shotgun.</b></p>
+<p><b>
+ Angel with a shotgun.</b></p>
 </div>
 
-<h2>⚡About Me</h2>
+<h2>
+  <div align="right" >
+  <a href="https://www.youtube.com/@dusitphaisan7036" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/_ugboy68/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BoxDusit.BoxDusit&left_color=darkslateblue&right_color=mediumpurple"  />
+   ⚡About Me</h2>
 <p>I am currently a student at the Faculty of Information Technology, Udon Thani Rajabhat University. This website was created to showcase and archive my work.</p>
 <ul>
   <li>Fontend Develop/UXUI design</li>
@@ -36,6 +47,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma" />
 </a>
 </h1>
+
+---
+<h1>
+<img src="https://github-readme-stats.vercel.app/api?username=BoxDusit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=2" height="200" alt="stats graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BoxDusit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoxDusit&radius=16&hide_title=true&theme=radical&area=true&order=4" height="300" alt="activity-graph graph"  />
+</h1>
+
 
 
 <!--
