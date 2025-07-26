@@ -10,8 +10,8 @@
   <a href="https://www.youtube.com/@dusitphaisan7036" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/_ugboy68/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://portfolio-5ac63.web.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=myWebsite&logo=tryhackme&label=&color=405DE6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
 </div>
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BoxDusit.BoxDusit&left_color=darkslateblue&right_color=mediumpurple"  />
@@ -47,13 +47,17 @@
   <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma" />
 </a>
 </h1>
+<br>
 
----
+<h2>✨ Github State</h2>
+
+<p><b>
 <h1>
 <img src="https://github-readme-stats.vercel.app/api?username=BoxDusit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=true&order=1&custom_title=Github%20Ranking" height="200" alt="stats graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BoxDusit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2&custom_title=Use%20for%20development" height="200" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoxDusit&radius=16&hide_title=true&theme=radical&area=true&order=4" height="300" alt="activity-graph graph"  />
 </h1>
+</p></b>
 
 
 
@@ -71,3 +75,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ <p align="center"><b>
+Thank you for watching my github Profile.
+ </b></p>
+
+
