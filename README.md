@@ -33,18 +33,19 @@
   <img src="https://skillicons.dev/icons?i=c,java,python" />
 </a>
 </h1>
-
+<!--
 <h1>
 <h4>🌱Database</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql," />
+  <img src="https://skillicons.dev/icons?i=," />
 </a>
 </h1>
+-->
 
 <h1>
 <h4>💬Other</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma,mongodb,mysql" />
 </a>
 </h1>
 <br>
