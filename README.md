@@ -50,7 +50,7 @@
 </h1>
 <br>
 
-<h2>✨ Github State</h2>
+<h2>✨ Github Status</h2>
 
 <p><b>
 <h1>
