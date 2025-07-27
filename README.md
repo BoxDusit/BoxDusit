@@ -23,7 +23,7 @@
 <h1>
 <h4>🔭Web Development</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,php,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,tailwind,php,nodejs,express" />
 </a>
 </h1>
 
