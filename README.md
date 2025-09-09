@@ -28,7 +28,7 @@
 </h1>
 
 <h1>
-<h4>📫Computer Language</h4>
+<h4>📫Programing Language</h4>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,java,python" />
 </a>
