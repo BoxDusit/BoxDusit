@@ -54,8 +54,9 @@
 
 <p><b>
 <h1>
-<img src="https://github-readme-stats.vercel.app/api?username=BoxDusit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=radical&locale=en&hide_border=true&order=1&custom_title=Github%20Ranking" height="200" alt="stats graph" /> 
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BoxDusit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true&order=2&custom_title=Use%20for%20development" height="200" alt="languages graph" /> <br>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BoxDusit&radius=16&hide_title=true&theme=radical&area=true&order=4" height="300" alt="activity-graph graph"  />
 </h1>
 </p></b>
