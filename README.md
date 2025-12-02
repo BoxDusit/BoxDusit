@@ -30,7 +30,7 @@
 <h1>
 <h4>📫Programing Language</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,dart" />
 </a>
 </h1>
 <!--
@@ -45,7 +45,7 @@
 <h1>
 <h4>💬Other</h4>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,ai,ps,figma,mongodb,mysql,flutter" />
 </a>
 </h1>
 <br>
